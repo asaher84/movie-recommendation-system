@@ -1,1 +1,2 @@
+
 This repository hosts a collaborative filtering-based movie recommendation system. It utilizes user ratings and item similarities to suggest personalized movie recommendations. The system employs Python, Pandas for data manipulation, and scikit-learn for building and evaluating recommendation models. Explore various collaborative filtering techniques and their implementations in this project
